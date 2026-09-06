@@ -1,4 +1,4 @@
-# 🇨🇭 Switzerland Tourism Website
+# Switzerland Tourism Website
 
 A responsive tourism website developed to showcase the **destinations, attractions, travel packages, and experiences of Switzerland**.
 
@@ -40,5 +40,5 @@ Developed as part of my first-year computing studies to gain practical experienc
 
 ## Developer
 
-**Rasmi Yusuf**
+**Rasmiya Mohamed Yusuf**
 BSc (Hons) Computing Student
