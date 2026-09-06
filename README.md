@@ -24,13 +24,9 @@ The project focuses on **web development, responsive design, interactive element
 * HTML5
 * CSS3
 
-## Screenshots
-
-*Add screenshots of the website here.*
-
 ## Live Website
 
-[View Live Website]([YOUR-GITHUB-PAGES-LINK](https://rasmiya77.github.io/Switzerland-tourism-website/))
+https://rasmiya77.github.io/Switzerland-tourism-website/
 
 ## Academic Project
 
